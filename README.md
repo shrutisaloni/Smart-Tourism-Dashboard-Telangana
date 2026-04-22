@@ -101,9 +101,7 @@ Smart-Tourism-Dashboard-Telangana/
 
 ## 📸 Dashboard Preview
 
-[![Smart Tourism Dashboard – Telangana](https://github.com/shrutisaloni/Smart-Tourism-Dashboard-Telangana/blob/main/Snapshot%20of%20the%20Dashboard.png?raw=true)](https://github.com/shrutisaloni/Smart-Tourism-Dashboard-Telangana/blob/main/Snapshot%20of%20the%20Dashboard.png)
-
-> *Click the image above to view full size. Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.*
+> *Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.*
 
 ---
 
