@@ -101,7 +101,7 @@ Smart-Tourism-Dashboard-Telangana/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Snapshot](https://github.com/shrutisaloni/Smart-Tourism-Dashboard-Telangana/blob/main/Snapshot%20of%20the%20Dashboard.png?raw=true)
+![Dashboard Snapshot](https://github.com/shrutisaloni/Smart-Tourism-Dashboard-Telangana/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 > *Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.*
 
@@ -120,14 +120,7 @@ This project was built as part of the **Codebasics Resume Project Challenge #1**
 
 **Shruti Saloni**
 - 📂 GitHub: [@shrutisaloni](https://github.com/shrutisaloni)
-- 🔗 LinkedIn: *(Add your LinkedIn URL here)*
+- 🔗 LinkedIn: (https://www.linkedin.com/in/shrutisaloni/)
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 *⭐ If you found this project helpful, consider starring the repository!*
